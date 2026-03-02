@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "player_name": "Cameron Green",
+    "country": "Australia",
+    "player_role": "All-rounder",
+    "image": "https://example.com/images/players/cameron_green.jpg",
+    "player_price": "25.20 Crore",
+    "rating": 780
+  },
+  {
+    "id": 2,
+    "player_name": "Virat Kohli",
+    "country": "India",
+    "player_role": "Batter",
+    "image": "https://example.com/images/players/virat_kohli.jpg",
+    "player_price": "21 Crore",
+    "rating": 795
+  },
+  {
+    "id": 3,
+    "player_name": "Matheesha Pathirana",
+    "country": "Sri Lanka",
+    "player_role": "Bowler",
+    "image": "https://example.com/images/players/m_pathirana.jpg",
+    "player_price": "18 Crore",
+    "rating": 715
+  },
+  {
+    "id": 4,
+    "player_name": "Jasprit Bumrah",
+    "country": "India",
+    "player_role": "Bowler",
+    "image": "https://example.com/images/players/j_bumrah.jpg",
+    "player_price": "18 Crore",
+    "rating": 879
+  },
+  {
+    "id": 5,
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "player_role": "All-rounder",
+    "image": "https://example.com/images/players/rashid_khan.jpg",
+    "player_price": "18 Crore",
+    "rating": 710
+  },
+  {
+    "id": 6,
+    "player_name": "Prashant Veer",
+    "country": "India",
+    "player_role": "All-rounder",
+    "image": "https://example.com/images/players/p_veer.jpg",
+    "player_price": "14.20 Crore",
+    "rating": 620
+  },
+  {
+    "id": 7,
+    "player_name": "Kartik Sharma",
+    "country": "India",
+    "player_role": "Wicketkeeper-Batter",
+    "image": "https://example.com/images/players/k_sharma.jpg",
+    "player_price": "14.20 Crore",
+    "rating": 615
+  },
+  {
+    "id": 8,
+    "player_name": "Liam Livingstone",
+    "country": "England",
+    "player_role": "All-rounder",
+    "image": "https://example.com/images/players/l_livingstone.jpg",
+    "player_price": "13 Crore",
+    "rating": 685
+  },
+  {
+    "id": 9,
+    "player_name": "Daryl Mitchell",
+    "country": "New Zealand",
+    "player_role": "Batter",
+    "image": "https://example.com/images/players/d_mitchell.jpg",
+    "player_price": "14 Crore",
+    "rating": 845
+  },
+  {
+    "id": 10,
+    "player_name": "Abhishek Sharma",
+    "country": "India",
+    "player_role": "Batter",
+    "image": "https://example.com/images/players/a_sharma.jpg",
+    "player_price": "10 Crore",
+    "rating": 877
+  },
+  {
+    "id": 11,
+    "player_name": "Joe Root",
+    "country": "England",
+    "player_role": "Batter",
+    "image": "https://example.com/images/players/joe_root.jpg",
+    "player_price": "2 Crore",
+    "rating": 880
+  },
+  {
+    "id": 12,
+    "player_name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "player_role": "Bowler",
+    "image": "https://example.com/images/players/m_rahman.jpg",
+    "player_price": "9.20 Crore",
+    "rating": 640
+  }
+]
