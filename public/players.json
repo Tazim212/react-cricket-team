@@ -4,8 +4,9 @@
     "player_name": "Cameron Green",
     "country": "Australia",
     "player_role": "All-rounder",
-    "image": "https://example.com/images/players/cameron_green.jpg",
-    "player_price": "25.20 Crore",
+    "batting_hand": "Right-hand",
+    "image": "https://i.postimg.cc/4mC0Z2sB/green.jpg",
+    "player_price": "20000",
     "rating": 780
   },
   {
@@ -13,8 +14,9 @@
     "player_name": "Virat Kohli",
     "country": "India",
     "player_role": "Batter",
-    "image": "https://example.com/images/players/virat_kohli.jpg",
-    "player_price": "21 Crore",
+    "batting_hand": "Right-hand",
+    "image": "https://i.postimg.cc/YL4BVvNS/virat.jpg",
+    "player_price": "21000",
     "rating": 795
   },
   {
@@ -22,8 +24,9 @@
     "player_name": "Matheesha Pathirana",
     "country": "Sri Lanka",
     "player_role": "Bowler",
-    "image": "https://example.com/images/players/m_pathirana.jpg",
-    "player_price": "18 Crore",
+    "batting_hand": "Right-hand",
+    "image": "https://i.postimg.cc/xkr8P22K/pathirana.jpg",
+    "player_price": "180000",
     "rating": 715
   },
   {
@@ -31,8 +34,9 @@
     "player_name": "Jasprit Bumrah",
     "country": "India",
     "player_role": "Bowler",
-    "image": "https://example.com/images/players/j_bumrah.jpg",
-    "player_price": "18 Crore",
+    "batting_hand": "Right-hand",
+    "image": "https://i.postimg.cc/FYwdnSjL/bumra.jpg",
+    "player_price": "300000",
     "rating": 879
   },
   {
@@ -40,17 +44,19 @@
     "player_name": "Rashid Khan",
     "country": "Afghanistan",
     "player_role": "All-rounder",
-    "image": "https://example.com/images/players/rashid_khan.jpg",
-    "player_price": "18 Crore",
+    "batting_hand": "Right-hand",
+    "image": "https://i.postimg.cc/tZQ676Jx/rashid.jpg",
+    "player_price": "90000",
     "rating": 710
   },
   {
     "id": 6,
-    "player_name": "Prashant Veer",
-    "country": "India",
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
     "player_role": "All-rounder",
-    "image": "https://example.com/images/players/p_veer.jpg",
-    "player_price": "14.20 Crore",
+    "batting_hand": "Left-hand",
+    "image": "https://i.postimg.cc/WtmGF5Mp/sakib.jpg",
+    "player_price": "400000",
     "rating": 620
   },
   {
@@ -58,8 +64,9 @@
     "player_name": "Kartik Sharma",
     "country": "India",
     "player_role": "Wicketkeeper-Batter",
-    "image": "https://example.com/images/players/k_sharma.jpg",
-    "player_price": "14.20 Crore",
+    "batting_hand": "Left-hand",
+    "image": "https://i.postimg.cc/R65MBVYM/kartik.jpg",
+    "player_price": "100000",
     "rating": 615
   },
   {
@@ -67,8 +74,9 @@
     "player_name": "Liam Livingstone",
     "country": "England",
     "player_role": "All-rounder",
-    "image": "https://example.com/images/players/l_livingstone.jpg",
-    "player_price": "13 Crore",
+    "batting_hand": "Right-hand",
+    "image": "https://i.postimg.cc/1fJ5qS8B/liam.jpg",
+    "player_price": "80000",
     "rating": 685
   },
   {
@@ -76,8 +84,9 @@
     "player_name": "Daryl Mitchell",
     "country": "New Zealand",
     "player_role": "Batter",
-    "image": "https://example.com/images/players/d_mitchell.jpg",
-    "player_price": "14 Crore",
+    "batting_hand": "Right-hand",
+    "image": "https://i.postimg.cc/V5XJ52BQ/daryl.jpg",
+    "player_price": "200000",
     "rating": 845
   },
   {
@@ -85,8 +94,9 @@
     "player_name": "Abhishek Sharma",
     "country": "India",
     "player_role": "Batter",
-    "image": "https://example.com/images/players/a_sharma.jpg",
-    "player_price": "10 Crore",
+    "batting_hand": "Left-hand",
+    "image": "https://i.postimg.cc/0rSw-Dzvt/abhi.jpg",
+    "player_price": "250000",
     "rating": 877
   },
   {
@@ -94,8 +104,9 @@
     "player_name": "Joe Root",
     "country": "England",
     "player_role": "Batter",
-    "image": "https://example.com/images/players/joe_root.jpg",
-    "player_price": "2 Crore",
+    "batting_hand": "Right-hand",
+    "image": "https://i.postimg.cc/5jXmG9VQ/root.jpg",
+    "player_price": "280000",
     "rating": 880
   },
   {
@@ -103,8 +114,9 @@
     "player_name": "Mustafizur Rahman",
     "country": "Bangladesh",
     "player_role": "Bowler",
-    "image": "https://example.com/images/players/m_rahman.jpg",
-    "player_price": "9.20 Crore",
+    "batting_hand": "Left-hand",
+    "image": "https://i.postimg.cc/L5tSPSw-S/musta.jpg",
+    "player_price": "600000",
     "rating": 640
   }
 ]
